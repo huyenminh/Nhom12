@@ -1,0 +1,9 @@
+c:\users\viettel\documents\visual studio 2015\Projects\Quanlychamcong\Quanlychamcong\bin\Debug\Quanlychamcong.exe.config
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\bin\Debug\Quanlychamcong.exe.config
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\bin\Debug\Quanlychamcong.exe
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\bin\Debug\Quanlychamcong.pdb
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\obj\Debug\Quanlychamcong.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\obj\Debug\Quanlychamcong.Properties.Resources.resources
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\obj\Debug\Quanlychamcong.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\obj\Debug\Quanlychamcong.exe
+C:\Users\DELL\Downloads\Quanlychamcong\Quanlychamcong\obj\Debug\Quanlychamcong.pdb
